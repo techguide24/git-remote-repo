@@ -1,1 +1,2 @@
 I have created first file in feature branch
+In the first file in feature branch I am adding line 2
